@@ -1,5 +1,5 @@
 # Online-Traffic-Obfuscation-Experimental-Framework-for-the-Smart-Home-Privacy-Protection
-
+论文DOI: https://doi.org/10.3390/electronics14163294
 上传的代码分为三部分，以节点命名的文件夹是三种基本流量混淆技术的源代码（节点具体规格如下图所示），matching文件夹是匹配的源代码，trace_classifier-main文件夹是论文“An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting”的源代码。
 ![image](https://github.com/HiaSop/Research-on-user-behavior-privacy-protection-method-for-smart-home/blob/main/1.jpg)
 
